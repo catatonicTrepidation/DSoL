@@ -1,0 +1,149 @@
+[
+  {
+    "commentText": "Thank u so much , really very helpful !"
+  },
+  {
+    "commentText": "thank you so much .grt work"
+  },
+  {
+    "commentText": "you're confusing equivalence class and equivalence relation"
+  },
+  {
+    "commentText": "Does someone knows a way to calc the number od partial orders of size n?\nLike, if is size 5, how many partial orders is there?"
+  },
+  {
+    "commentText": "my modules say total order is the elements in the group are comparable. btw, if i got (1,3),(3,3）, is it transitive?"
+  },
+  {
+    "commentText": "Thanks Trevor. This is helpful for my Advanced Graph Theory class. We are talking about Comparability Graphs as well as partial order and transitive orientation."
+  },
+  {
+    "commentText": "sir explain with more clarity..u are also confused while checking transitivity and some other parts"
+  },
+  {
+    "commentText": "Hey man i have a question. If partial order and total order both are asymmetric, reflexive and transitive then what is the difference between them?"
+  },
+  {
+    "commentText": "Thank you so much these wonderful videos!\nI'm having a trouble with reading mathematics notations related to set theory. How can I improve my awareness of reading these notations? I have a course in college that deals with theories of sets and graphs, and I can't understand all the notations especially when it comes to functions and relations that are a bit complex. What do you recommend?"
+  },
+  {
+    "commentText": "Suppose I have a hasse diagram here (pardon its messiness, quite difficult to write it on comment)\n\n\n  G \n  |\n  F\n|    |\nD - E \n|     |\n   C\n|     |\nA   B\n\nSuppose X = {C.D.E}\nI found this definition in my textbook :\n\"An upper bound (UB) for A is any element x  E S (perhaps in A also)   such that  for all    a E A, a  <= x.\"\nDoes that imply that the upper bound of X are not only G and G, but also D and E themselves?\n\nWhich leads to another confusion\n\"x E s is the least upper bound (LUB) for A if x is an upper bound of A and for upper bound y of A, y >= x\"\nSince {D,E} which are elements of X themselves, are also included in upper bounds,  the least upper bound of X are {D and E}.\n\nTo be completely honest, I found this quite strange. Am I misunderstanding things? I'll appreciate any help, thank you very much"
+  },
+  {
+    "commentText": "is there any video for closure of relations ?"
+  },
+  {
+    "commentText": "I couldn't find Partial Orders in the Book of Proof. Does anyone know if it is actually covered in the book?"
+  },
+  {
+    "commentText": "thanks guys."
+  },
+  {
+    "commentText": "Thank You so much!"
+  },
+  {
+    "commentText": "12:41 Hasse Diagram, you said it is Symmetric, please explain how. Thanks"
+  },
+  {
+    "commentText": "I have 2 questions. time line 8:29\n\n1. if 2=2 is reflexive, then why x<=y, y<=x then x=y. Why can't we say x=y here is reflexive instead of anti symmetric?\n2. Can use number to show an anti-symmetric example?\n\nKind of getting confused a lot now."
+  },
+  {
+    "commentText": "You have such a great channel man! I'm studying computer Science and our math prof. does nothing except read out definitions and write them on the board all lecture long... You're really helping me understand what we're actually learning! Cheers man!"
+  },
+  {
+    "commentText": "Nice :D"
+  },
+  {
+    "commentText": "How about Equivalence Classes and its proof, i think its very.. confusing"
+  },
+  {
+    "commentText": "Dude youre the best(and only good) discrete math teacher on youtube!! I'm taking Discrete in College rn and I was gonna go insane until I found your channel! \n\nThank you sooooooo much"
+  },
+  {
+    "commentText": "i think it would be like what I see from  the book is:  [x] ^ [y] != {}  cz their are reflexive elements in those set. isn't it, if I am not wrong sir?"
+  },
+  {
+    "commentText": "can you explain about antisymmetric relations please."
+  },
+  {
+    "commentText": "Anyone knows what software he uses for doing these video tutorials?"
+  },
+  {
+    "commentText": "confused... 9:46 , how can you say that a is a poset with respect to b, when a is an element of the poset called Alphabet and the relation is called \"alphabetic order\""
+  },
+  {
+    "commentText": "The video was essentially good but I think you should have included the lower bound, upper bound, sup, inf etc... I am saying this because I sensed that you were not so sure whether you should talk about them or not. Cheers."
+  },
+  {
+    "commentText": "Discrete math is the most useless math ever created"
+  },
+  {
+    "commentText": "Lucid explanation. Thanks!"
+  },
+  {
+    "commentText": "Hi need some help here, 'cuz im really confused about the antisymmetric property, why is that the relation \"greater than\" considered as antisymmetric and for this T = {(a,c),(b,d),(d,c)} in relation to X ={a,b,c,d} is considered also antisymmetric . :( please i'm so confused"
+  },
+  {
+    "commentText": "Thank you for your videos! it makes everything look simple :)"
+  },
+  {
+    "commentText": "I'm a bit confused because my professor introduces antisymmetry as aRb bRa when a does not equal b. So i dont quite u derstand why you say aRb bRa when a=b when that is the definition of symmetry"
+  },
+  {
+    "commentText": "Thank you so much, man."
+  },
+  {
+    "commentText": "Thank you for this lessons!"
+  },
+  {
+    "commentText": "I have a question: Why this set if reflexive, by definiton A relation in which all the elements follow the property A→A.\nAll the elements are related to themselves is known as reflexive relation. So if there are ordered couples, which are not reflexive as in the example (1,1) (1,2) (1,3)... then it shouldnt be reflexive?"
+  },
+  {
+    "commentText": "Have my discrete math exam tomorrow morning. Just wanted to say thanks for the videos, they've been great!!"
+  },
+  {
+    "commentText": "At 12:48 you mentioned that, \"we know that in a partial order, everything is going to be symmetric...\" I am quite sure you meant to say, everything is going to be reflexive."
+  },
+  {
+    "commentText": "Thank you so much, it really did help."
+  },
+  {
+    "commentText": "Thanks, sir."
+  },
+  {
+    "commentText": "You have a video on extremal elements in a poset?? This video was good!"
+  },
+  {
+    "commentText": "thanks for the video man, really appreciate it!"
+  },
+  {
+    "commentText": "sir, if u give more video with example of how to find maximal and minimal number n also for greatest nd  least elements ,it will b helpful\n\nthax  for giving this video"
+  },
+  {
+    "commentText": "ossum video, now i am cleared with poset but still i confused in symmetric and antisymetric relation both look same :("
+  },
+  {
+    "commentText": "best tutorial about hasse diagrams, thanks !"
+  },
+  {
+    "commentText": "1:23 theres a smiley face in the bottom right dot :)"
+  },
+  {
+    "commentText": "Hi I'm having problems understanding the following question I found in my course book: \"How many partial orders on the set {x, y} has x as the minimal emelement?\" Are they talking about different sort of relations e.g. divisibility and <= (less than or equal)? The answer is apparently 2. When drawing a Hasse-diagram it seems there's only one way for it to look: x goes to y."
+  },
+  {
+    "commentText": "Hi @TheTrevTutor, thank you for this one. It makes more sense to answer my modules. And also, do you have something that discuss Operations on Relations? Like Complement of a relations, inverse of a relation, composite product, R restricted to X and Image of x under R."
+  },
+  {
+    "commentText": "A={1,2,3,4}....is it symmetric or anti-symmetric .....??? Being a PO SET it is of course  \nanti-symmetric .....but how...??"
+  },
+  {
+    "commentText": "Great Vid! Cheers!"
+  },
+  {
+    "commentText": "You're a better teacher than my lecturer."
+  },
+  {
+    "commentText": "Great job with this series! Information condensed to the appropriate level."
+  }
+]

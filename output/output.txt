@@ -1,0 +1,49 @@
+----------STATS----------
+-poset_comments-
+73 subjects (6.3%) 
+338 nouns (29.2%) 
+163 adjectives (14.1%) 
+210 verbs (18.2%) 
+172 adverbs (14.9%) 
+113 prepositions (9.8%) 
+87 unknown words (7.5%)
+1156 words total
+
+0.000000% of comments were marked as grammatically correct
+
+-doge_comments-
+166 subjects (4.5%) 
+953 nouns (26.0%) 
+326 adjectives (8.9%) 
+857 verbs (23.4%) 
+532 adverbs (14.5%) 
+342 prepositions (9.3%) 
+493 unknown words (13.4%)
+3669 words total
+
+1.355932% of comments were marked as grammatically correct
+
+-spanish_comments-
+247 subjects (5.5%) 
+420 nouns (9.4%) 
+98 adjectives (2.2%) 
+132 verbs (2.9%) 
+70 adverbs (1.6%) 
+16 prepositions (0.4%) 
+3498 unknown words (78.1%)
+4481 words total
+
+0.000000% of comments were marked as grammatically correct
+
+-japanese_comments-
+2 subjects (0.2%) 
+6 nouns (0.7%) 
+3 adjectives (0.3%) 
+1 verbs (0.1%) 
+0 adverbs (0.0%) 
+1 prepositions (0.1%) 
+857 unknown words (98.5%)
+870 words total
+
+0.000000% of comments were marked as grammatically correct
+
